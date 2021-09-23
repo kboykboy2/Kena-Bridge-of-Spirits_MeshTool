@@ -1,5 +1,5 @@
 # kena mesh tool: created by kboykboy
-# converts normal ue4 skeletal meshes so they can be modded into kena: bride of spirits
+# converts normal ue4 skeletal meshes so they can be modded into kena: bridge of spirits
 
 # import modules
 import tkinter as tk
