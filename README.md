@@ -1,5 +1,5 @@
 # Kena-Bridge-of-Spirits_MeshTool
-a Tool that edits meshes so that they can be modded into Kena: Bridge of Spirts without crashing
+a Tool that edits meshes so that they can be modded into Kena: Bridge of Spirts without crashing, the tool was made very quickly and sometimes may fail, especially on high poly models.
 
 
 
